@@ -1,7 +1,11 @@
-pytest
-tox
-cookiecutter
-pytest-cookies
-alabaster
+pip
+bump2version
+wheel
 watchdog
-pyyaml
+flake8
+tox
+coverage
+Sphinx
+twine
+grip
+

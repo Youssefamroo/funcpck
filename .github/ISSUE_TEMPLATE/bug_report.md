@@ -8,7 +8,7 @@ labels: bug
 
 ### Environment Information
 
--   pypackage version:
+-   funcpck version:
 -   Python version:
 -   Operating System:
 
